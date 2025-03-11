@@ -15,6 +15,8 @@ This research aims to develop a context-enriched NER pipeline to detect and cate
 #### Dataset
 We will use the "Dataset of Video Comments of a Vision Video Classified by Their Relevance, Polarity, Intention, and Topic" from NIAID.
 
+https://data.niaid.nih.gov/resources?id=zenodo_4533301 
+
 #### Algorithms & Implementation
 - Transformer-based NER models: Fine-tune BERT-NER or spaCy's Transformer NER for informal comment text.
 - Contextual embeddings: Use SBERT (Sentence-BERT) to improve entity recognition by incorporating surrounding comment context.
