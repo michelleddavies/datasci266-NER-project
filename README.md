@@ -2,7 +2,7 @@
 ## UC Berkeley MIDS Program - Spring 2025, DATASCI 266 (NLP)
 ### By Chelle Davies, Ziyad Amer
 
-Assignment: https://github.com/datasci-w266/2025-spring-main/tree/master/project
+Assignment: https://github.com/datasci-w266/2025-spring-main/tree/master/project 
 
 #### Objective
 This research aims to develop a context-enriched NER pipeline to detect and categorize mentions of people, places, brands, and products in video comments. Unlike conventional NER, our approach will incorporate comment-reply hierarchies and semantic embeddings to refine entity recognition and identify emerging trends.
@@ -25,7 +25,7 @@ We will use the "Dataset of Video Comments of a Vision Video Classified by Their
 1. Devlin, Jacob, et al. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." arXiv, 11 Oct. 2018, arxiv.org/abs/1810.04805.
 2. Reimers, Nils, and Iryna Gurevych. "Sentence-BERT: Sentence Embeddings Using Siamese BERT-Networks." arXiv, 27 Aug. 2019, https://arxiv.org/abs/1908.10084.
 3. von Luxburg, Ulrike. "A Tutorial on Spectral Clustering." Statistics and Computing, vol. 17, no. 4, 2007, pp. 395–416. arXiv, arxiv.org/abs/0711.0189.
-4. Zhang, Jing, et al. "Research on News Keyword Extraction Technology Based on TF-IDF and TextRank." Proceedings of the 2019 IEEE 9th International Conference on Electronics Information and Emergency Communication (ICEIEC), 12–14 July 2019, pp. 1–4. IEEE Xplore, ieeexplore.ieee.org/document/8940293.
+4. Zhang, Jing, et al. "Research on News Keyword Extraction Technology Based on TF-IDF and TextRank." Proceedings of the 2019 IEEE 9th International Conference on Electronics Information and Emergency Communication (ICEIEC), 12–14 July 2019, pp. 1–4. IEEE Xplore, ieeexplore.ieee.org/document/8940293, 
 
 ---
 
