@@ -33,6 +33,6 @@ We will use the "Dataset of Video Comments of a Vision Video Classified by Their
 
 | Team Member | Model(s) Assigned       | Key Responsibilities                                  |
 |-------------|-------------------------|-------------------------------------------------------|
-| Member 1    | Model A, Model C        | Data collection, preprocessing, model training, report writing  |
-| Member 2    | Model B, Model D        | Feature engineering, model evaluation, visualization, documentation |
+| Chelle   | Model A, Model C        | Data collection, preprocessing, model training, report writing  |
+| Ziyad    | Model B, Model D        | Feature engineering, model evaluation, visualization, documentation |
 
