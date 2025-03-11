@@ -33,6 +33,6 @@ We will use the "Dataset of Video Comments of a Vision Video Classified by Their
 
 | Team Member | Model(s) Assigned       | Key Responsibilities                                  |
 |-------------|-------------------------|-------------------------------------------------------|
-| Chelle      | spaCy's Transformer NER (Baseline 2), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, model evaluation, documentation  |
-| Ziyad       | BERT-NER (Baseline 1), SBERT          | Model training, Model evaluation, visualizations, report writing, presentation |
+| Chelle      | spaCy's Transformer NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, model evaluation, documentation  |
+| Ziyad       | BERT-NER (Baseline), SBERT          | Model training, Model evaluation, visualizations, report writing, presentation |
 
