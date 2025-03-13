@@ -18,7 +18,7 @@ We will use the "Dataset of Video Comments of a Vision Video Classified by Their
 https://data.niaid.nih.gov/resources?id=zenodo_4533301 
 
 #### Algorithms & Implementation
-- Transformer-based NER models: Fine-tune BERT-NER or spaCy's Transformer NER for informal comment text.
+- Transformer-based NER models: Fine-tune BERT-NER for informal comment text.
 - Contextual embeddings: Use SBERT (Sentence-BERT) to improve entity recognition by incorporating surrounding comment context.
 - Entity linking and clustering: Use BERT-Topic or Agglomerative Clustering to group similar entity mentions (e.g., different spellings of the same product).
 - Trend detection: Track the frequency and evolution of newly identified entities to uncover trending topics.
@@ -36,5 +36,5 @@ https://data.niaid.nih.gov/resources?id=zenodo_4533301
 | Team Member | Model(s) Assigned       | Key Responsibilities                                  |
 |-------------|-------------------------|-------------------------------------------------------|
 | Chelle      | BERT-NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, model evaluation, documentation  |
-| Ziyad       | spaCy's Transformer NER, SBERT | Model training, Model evaluation, visualizations, report writing, presentation |
+| Ziyad       | SBERT | Model training, Model evaluation, visualizations, report writing, presentation |
 
