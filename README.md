@@ -35,6 +35,6 @@ https://data.niaid.nih.gov/resources?id=zenodo_4533301
 
 | Team Member | Model(s) Assigned       | Key Responsibilities                                  |
 |-------------|-------------------------|-------------------------------------------------------|
-| Chelle      | spaCy's Transformer NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, model evaluation, documentation  |
-| Ziyad       | BERT-NER (Baseline), SBERT          | Model training, Model evaluation, visualizations, report writing, presentation |
+| Chelle      | BERT-NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, model evaluation, documentation  |
+| Ziyad       | spaCy's Transformer NER, SBERT | Model training, Model evaluation, visualizations, report writing, presentation |
 
