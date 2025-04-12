@@ -2,5 +2,4 @@
 /report/bert-ner-video-comments
 code/bert_ner_model.joblib
 /code/results
-code/SBERT_test.ipynb
 code/trend_detection.ipynb
