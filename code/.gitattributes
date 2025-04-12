@@ -1,1 +1,2 @@
 /Users/michelledavies/Library/CloudStorage/GoogleDrive-chelle.davies@berkeley.edu/My[[:space:]]Drive/DATASCI[[:space:]]266/datasci266-NER-project/code/bert_ner_model.joblib filter=lfs diff=lfs merge=lfs -text
+sbert.pkl filter=lfs diff=lfs merge=lfs -text
