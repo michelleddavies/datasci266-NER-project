@@ -35,6 +35,6 @@ https://data.niaid.nih.gov/resources?id=zenodo_4533301
 
 | Team Member | Model(s) Assigned       | Key Responsibilities                                  |
 |-------------|-------------------------|-------------------------------------------------------|
-| Chelle      | BERT-NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, visualizations, model evaluation, report writing  |
-| Ziyad       | SBERT (Baseline), Trend detection | Model training, Model evaluation, visualizations, presentation |
+| Chelle      | BERT-NER (Baseline), BERT-Topic/Agglomerative Clustering    | Data collection, Feature engineering, model training, visualizations, model evaluation, report writing, presentation  |
+| Ziyad       | SBERT (Baseline), Trend detection | Model training, Model evaluation, visualizations |
 
